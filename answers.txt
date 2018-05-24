@@ -1,0 +1,53 @@
+4D-1 2A-1 4G-1 2F-1 8E-1 8F-1 4G-1 4G-1 4F-1 4E-1 2D-1 4. 4.
+4D-1 2A-1 4G-1 2F-1 8E-1 8F-1 2G-1 8C 8G-1 4B♭-1 4A-1 4. 4.
+4D-1 2A-1 4G-1 2F-1 8E-1 8F-1 4G-1 4G-1 4F-1 4E-1 2D-1 4. 4.
+8D-1 8E-1 2F-1 8E-1 8D-1 2C-1 8C-1 8D-1 4E-1 4F-1 4C-1 4E-1 4D-1 1.
+
+# TODO: tempo change here
+4D-1 32A-1 32E 4A 32E 32A 4C+1 32A 32C+1 2E+1 4E
+4D-1 32A-1 32E 4A 32E 32A 4C+1 32A 32C+1 2E+1
+
+4D+1 4A+1 4A+1 4G+1 4F+1 4F+1 8E+1 8F+1 4G+1 4G+1 4F+1 4E+1 2D+1 4. 4.
+4D+1 4A+1 4A+1 4G+1 4F+1 4F+1 8E+1 8F+1 4G+1 4G+1 8C+2 8G+1 4B♭+1 2A+1 4. 4.
+4D+1 4A+1 4A+1 4G+1 4F+1 4F+1 8E+1 8F+1 4G+1 4G+1 4F+1 4E+1 2D+1 4. 4.
+8D+1 8E+1 3F+1 15F+1 8E+1 8D+1 2C+1 8C+1 8D+1 4E+1 4F+1 4C+1 4E+1 2D+1 1. 1.
+
+# Can drop the last two whole rests for some harmony
+
+# F+1 E+1 F+1 A+1 G+1 F+1 G+1 B♭+1 A+1
+# F+1 E+1 F+1 A+1 G+1 C+2 G+1 B♭+1 A+1
+# A+1 C+2 G+1 B♭+1 F+1 A+1 G+1 E+1 F+1 A+1 G+1 E+1 C+1 D+1 D+1
+
+# D+1 D+1 C+1 C+1 B♭ B♭ A A
+# D+1 D+1 C+1 C+1 B♭ B♭ A A
+# D+1 D+1 B C+1 C+1 A B♭ B♭ G A A F
+# D+1 D+1 B C+1 C+1 A B♭ B♭ G AA F
+# D+1 F+1 D+1 C+1 E+1 C+1 B♭ D+1 B♭ A C+1 A
+# D+1 F+1 D+1 C+1 E+1 C+1 B♭ D+1 B♭ AA
+
+# A-1 A-1 D E A
+# A-1 A-1 D E A
+
+# D A A G F E F G G F E D
+# D A A G F E F G G C+1 G B♭ A
+# D A A G F E F G G F E D
+# D E F F E D C D E F C E D
+
+# G D E F F E D C E D
+# G D E F F G F G C+1 A
+# G D E F F E D C E D
+
+# D E F F E D C D E F C E D
+# D E F G F D C D E F G G A B♭ C+1 D+1
+
+# D+1 D+1 B C+1 C+1 A B♭ B♭ G A A F
+# D+1 D+1 B C+1 C+1 A B♭ B♭ G A A F
+# D+1 D+1 B C+1 C+1 A B♭ B♭ D D B♭
+# D+1 D+1 B C+1 C+1 A B♭ B♭ A D D
+
+# D A A G F F E F G G F E D
+# D A A G F F E F G G C+1 G B♭ A
+# D A A G F F E F G G F E D
+
+# D E F E D C C D E F C E D
+# D E F E D C C D E F C E D
